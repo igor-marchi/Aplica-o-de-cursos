@@ -1,5 +1,5 @@
 <h4 align="center">
-    Sua plataforma de cursos
+    Course Academy, sua plataforma de cursos!
 </h4>
 
 <p align="center">
